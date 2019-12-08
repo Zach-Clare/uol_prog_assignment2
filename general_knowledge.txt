@@ -1,0 +1,5 @@
+Who wrote the literary fiction novel 1984?,Charles Dickens,Ray Bradbury,Kurt Vonnegut,George Orwell,4
+Who invented the world wide web?,Dwayne (The Rock) Johnson,Tim Berners-Lee,Bruce Berners-Lee,Chuck Norris,2
+What does the first P in PHP (programming language) stand for?,Processed,Programmed,PHP,Petrifyingly-fast,3
+Where is Absolut Vodka distilled?,Iceland,Sweden,Russia,Finland,2
+How many fingers am I holding up?,1,6,3,2 - one of those is a thumb,1
